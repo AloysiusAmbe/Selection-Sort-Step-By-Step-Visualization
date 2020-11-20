@@ -1,5 +1,5 @@
 
-var arr = [6, 10, 2, 5, 13, 3, 9, 8, 20];
+var arr = [6, 10, 2, 5, 13, 3, 9, 8, 20, 11];
 createBars(arr); // Calls the function
 
 // Create the bars in the web page
